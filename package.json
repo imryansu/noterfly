@@ -1,0 +1,25 @@
+{
+  "name": "@noterfly/monorepo",
+  "private": true,
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/imryansu/noterfly",
+  "bugs": {
+    "url": "https://github.com/imryansu/noterfly/issues",
+    "email": "imryansu@icloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imryansu/noterfly.git"
+  },
+  "author": "Ryan Su <imryansu@icloud.com> (https://www.imryansu.com)",
+  "type": "module",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "devDependencies": {},
+  "packageManager": "pnpm@10.19.0",
+  "engines": {
+    "node": "^22.0.0"
+  }
+}
