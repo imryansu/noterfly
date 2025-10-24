@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/imryansu/noterfly.git"
   },
+  "license": "MIT",
   "author": "Ryan Su <imryansu@icloud.com> (https://www.imryansu.com)",
   "type": "module",
   "scripts": {
