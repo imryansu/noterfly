@@ -16,9 +16,12 @@
   "author": "Ryan Su <imryansu@icloud.com> (https://www.imryansu.com)",
   "type": "module",
   "scripts": {
+    "commit": "czg",
     "preinstall": "npx only-allow pnpm"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "czg": "1.12.0"
+  },
   "packageManager": "pnpm@10.19.0",
   "engines": {
     "node": "^22.0.0"
